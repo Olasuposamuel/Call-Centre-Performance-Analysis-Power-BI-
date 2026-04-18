@@ -1,113 +1,86 @@
 # 📞 Call Center Performance Analysis (Power BI)
 
 ## 📊 Project Overview
-This project presents an end-to-end **Call Center Performance Analysis** using **Excel for data preparation** and **Power BI for interactive dashboarding**.
+End-to-end **Call Center Performance Analysis** using **Excel for data preparation** and **Power BI for interactive dashboarding**.
 
-It transforms raw operational data into a **multi page analytical dashboard** that evaluates performance, identifies inefficiencies, and supports data driven decision making.
-
----
-
-## 🎯 Business Objectives
-- Monitor overall **call center performance**
-- Evaluate **agent productivity and efficiency**
-- Analyze **customer satisfaction trends**
-- Identify **service gaps across call topics**
-- Improve **consistency in service delivery**
+This project transforms raw operational data into a **multi-page analytical dashboard** that tracks KPIs, evaluates agent performance, and analyzes customer satisfaction to support data-driven decision-making.
 
 ---
 
-## 📁 Dataset Description
-The dataset includes:
-- Call status (Answered / Resolved)  
-- Agent level performance data  
-- Call topics (Technical, Payment, Contract, etc.)  
-- Customer satisfaction ratings  
-- Date and time metrics  
+## 🎯 Key Features
+- 📞 KPI Monitoring (Calls, Resolution Rate, Speed of Answer)
+- 👨‍💼 Agent Performance Analysis
+- ⭐ Customer Satisfaction Insights
+- 📈 Trend Analysis & Performance Tracking
+- 🎛 Interactive Filters (Agent, Topic, Time)
 
 ---
 
-## 📊 Dashboard Structure
-
-### 🏠 1. Overview Dashboard
-Provides a high level snapshot of performance:
-- 📞 Total Answered Calls: **4,054**
-- ✅ Resolution Rate: **89.94%**
-- ⏱ Average Speed of Answer: **67.52 seconds**
-
-**Purpose:** Quick monitoring of key operational KPIs.
+## 📌 Key Metrics
+- **Total Answered Calls:** 4,054  
+- **Resolution Rate:** 89.94%  
+- **Average Speed of Answer:** 67.52 seconds  
 
 ---
 
-### 👨‍💼 2. Agent Performance Dashboard
-Analyzes individual agent contributions:
-- Calls handled by agent  
-- Resolved calls by agent  
-- Average response time by agent  
+## 📊 Dashboard Pages
 
-**Key Insight:**  
-Top performing agents demonstrate both **high volume and efficiency**, setting performance benchmarks.
+### 🏠 Overview
+High level KPI summary for quick performance monitoring.
 
----
+### 👨‍💼 Agent Performance
+Compares agents based on:
+- Calls handled  
+- Resolution efficiency  
+- Response time  
 
-### ⭐ 3. Customer Satisfaction & Operations Dashboard
-Focuses on service quality and operational drivers:
-- Average satisfaction rating by topic  
-- Daily average speed of answer  
+### ⭐ Customer Satisfaction & Operations
+- Satisfaction ratings by topic  
+- Operational performance drivers  
 
-**Key Insight:**  
-**Contract related issues** have the lowest satisfaction scores, indicating a need for targeted improvement.
-
----
-
-### 📈 4. Trend Analysis Dashboard
-Tracks performance over time:
-- Satisfaction rating trends  
-- Variability in service performance  
-
-**Key Insight:**  
-Fluctuations in satisfaction highlight **inconsistent service delivery**.
+### 📈 Trend Analysis
+- Satisfaction trends over time  
+- Performance fluctuations  
 
 ---
-
 
 ## 📌 Key Insights
-- High performing agents combine **speed, volume, and resolution efficiency**  
-- Customer satisfaction varies slightly across service categories  
-- Response time fluctuates across periods, impacting experience  
-- Certain topics require focused operational improvements  
-- Consistency remains a key performance challenge  
+- Top agents combine **high call volume and high resolution efficiency**  
+- Customer satisfaction varies across service categories  
+- **Contract related issues** show lower satisfaction levels  
+- Performance fluctuations indicate **inconsistent service delivery**  
 
 ---
 
 ## 💡 Recommendations
-- Improve training for slower agents to reduce response time  
-- Optimize handling of **contract related issues**  
+- Improve agent training to reduce response time  
+- Optimize handling of low performing service areas  
 - Implement real time performance monitoring  
-- Standardize processes to reduce variability  
-- Leverage best practices from top-performing agents  
+- Standardize processes for consistency  
+- Leverage best practices from top performing agents  
 
 ---
 
 ## 🛠 Tools & Technologies
 - **Excel** – Data cleaning and preparation  
-- **Power BI** – Data modeling and dashboard development  
+- **Power BI** – Dashboard development and visualization  
 - **Power Query** – Data transformation  
-- **DAX** – KPI calculations and measures
+- **DAX** – KPI calculations  
 
 ---
 
 ## 📷 Dashboard Preview
-<img width="1198" height="665" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/cfb9a0d1-fc7f-453e-8c3f-3a4765c26a86" />
-<img width="1226" height="692" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/040f51fe-421a-429f-b1f3-8217bc43bac5" />
-<img width="1222" height="683" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/c4565aa6-f6df-4b0f-94bd-243b480609cf" />
-<img width="1226" height="678" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/990e59e5-c9ac-478c-9b0a-d6949e4d01fd" />
+<img width="1198" height="665" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/d5b85c06-e1c0-49cb-b4d8-49f34b01832d" />
+<img width="1226" height="692" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/525c7107-e0d2-4b63-8d2e-a67cdcd983a4" />
+<img width="1222" height="683" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/3d339f84-62a1-4784-b568-1439e435a0e3" />
+<img width="1226" height="678" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/ba082747-2837-4829-9e44-b7563dd03788" />
 
 ---
 
 ## 📌 How to Use
-1. Download the `.pbix` file from this repository  
-2. Open using **Power BI Desktop**  
-3. Interact with filters and visuals to explore insights  
+1. Download the `.pbix` file  
+2. Open in **Power BI Desktop**  
+3. Interact with filters to explore insights  
 
 ---
 
@@ -119,10 +92,7 @@ Data Analyst | Business Intelligence Enthusiast
 
 ## 🚀 Project Value
 This project demonstrates:
-- End-to-end data analysis workflow (Excel → Power BI)  
-- KPI design aligned with business objectives  
-- Multi-dashboard storytelling  
-- Ability to generate **actionable business insights** 
-
-
-
+- End-to-end analytics workflow (**Excel → Power BI**)  
+- KPI design aligned with business goals  
+- Interactive dashboard storytelling  
+- Ability to generate **actionable insights**
