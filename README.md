@@ -78,7 +78,7 @@ Compares agents based on:
 ---
 
 ## 📌 How to Use
-1. Download the <a href="(https://github.com/Olasuposamuel/Call-Centre-Performance-Analysis-Power-BI/blob/main/pbix/Call%20Centre%20DataBase.pbix)">.pbix file</a>  
+1. Download the <a href="(https://github.com/Olasuposamuel/Call-Centre-Performance-Analysis-Power-BI/blob/main/pbix/Call%20Centre%20DataBase.pbix)">. file</a>  
 2. Open in **Power BI Desktop**  
 3. Interact with filters to explore insights  
 
